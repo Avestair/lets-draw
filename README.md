@@ -41,5 +41,5 @@ Make sure you have the following installed:
 First, clone the project repository to your local machine:
 
 ```bash
-git clone [https://github.com/avestair/lets-draw.git](https://github.com/avestair/lets-draw.git)
+git clone https://github.com/avestair/lets-draw.git
 cd lets-draw
